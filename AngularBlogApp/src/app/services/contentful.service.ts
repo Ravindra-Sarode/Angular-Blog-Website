@@ -1,7 +1,8 @@
 import { Injectable } from '@angular/core';
 
 import { createClient, Entry } from 'contentful';
-import { from } from 'rxjs';
+ import {from} from 'rxjs';
+// import { catchError, from } from 'rxjs/index';
 
 @Injectable({
   providedIn: 'root'
