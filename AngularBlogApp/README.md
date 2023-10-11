@@ -1,10 +1,9 @@
-# AngularBlogApp
+Blog website with Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
 
-## Development server
+## About
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Built a website with Angular that effectively handles binary large objects (BLOBs), providing efficient storage
 
 ## Code scaffolding
 
@@ -14,14 +13,24 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+## Technology Used
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Angular 
+Javascript
+VSCode
+Vercel
 
-## Running end-to-end tests
+## Screenshorts
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![Blog 1](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/ebf85d30-9ff9-4edf-b16d-ae7a869591dc)
 
-## Further help
+![Blog 2](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/8ce666ac-a558-49f2-bb51-62fa1c4fd80d)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Blog 3](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/a9845260-19c6-4650-9d87-d39cdb527bbe)
+
+![Blog 4](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/10f93250-0565-4568-8161-aaef91ee428b)
+
+![Blog 5](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/0d78499f-2141-4d09-a752-969caa0d990a)
+
+![blog 6](https://github.com/Ravindra-Sarode/Angular-Blog-Website/assets/84174506/9306568e-f08f-4a00-948e-0490738f2a3c)
+
